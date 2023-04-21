@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Whistler"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Whistler Team"
+description              : "This application is delievery service application that is geared solely towards venues and stadiums. This application is similar to DashDash, UberEats, and GrubHub expect that all based on delieveries within a venue. The application will have three type of people using the applications. The first one is the average user looking for a quick bite brought to his/her seat all with the click of a few buttons, the second user is the whistler which is the person delievering the items to the user in the venue, and the third user is employee/managers that recieve the orders to be completed, recievce feedback based on those orders, and gets sales reports based on completed orders."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
